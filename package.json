@@ -1,0 +1,19 @@
+{
+  "name": "automated-workflow-demo",
+  "version": "1.0.0",
+  "description": "Automated workflow demonstration with Copilot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": ["workflow", "automation", "copilot"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
